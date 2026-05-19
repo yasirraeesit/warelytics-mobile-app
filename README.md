@@ -6,7 +6,7 @@ Mobile-first warehouse operator app for scanning QR codes, viewing product detai
 
 ## Repositories
 - Backend API: `yasirraeesit/warelytics-backend`
-- Admin dashboard: `yasirraeesit/warelytics-admin-dashboard`
+- Client (web): `yasirraeesit/warelytics-client` (or rename your existing admin-dashboard repo)
 - Mobile app (this repo): `yasirraeesit/warelytics-mobile-app`
 
 ## App Screens (Planned/Building)
@@ -31,4 +31,3 @@ During implementation the app will use an API base URL via config (e.g., `EXPO_P
 
 ## Project Plan
 See `PROJECT.md`.
-
